@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "Student Productivity Tracker",
+    "slug": "student-productivity-tracker",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#4A90D9"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#4A90D9"
+      }
+    }
+  }
+}
